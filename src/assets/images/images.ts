@@ -1,0 +1,17 @@
+export default {
+  ic_home: require('./ic_home.png'),
+  ic_profile: require('./ic_profile.png'),
+  ic_document: require('./ic_document.png'),
+  ic_notification: require('./ic_notification.png'),
+  ic_plus: require('./ic_plus.png'),
+  ic_call: require('./ic_call.png'),
+  ic_stethoscope: require('./ic_stethoscope.png'),
+  ic_files: require('./ic_files.png'),
+  ic_menu: require('./ic_menu.png'),
+  ic_upload_photo: require('./ic_upload_photo.png'),
+  ic_camera: require('./ic_camera.png'),
+  ic_square: require('./ic_square.png'),
+  ic_check_square: require('./ic_check_square.png'),
+  ic_settings: require('./ic_settings.png'),
+  ic_logout: require('./ic_logout.png'),
+};
